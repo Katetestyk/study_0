@@ -1,1 +1,0 @@
-const Kate =1;
